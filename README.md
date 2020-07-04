@@ -1,5 +1,5 @@
 # USAF-CodingChallenge
-Coding challenge for Air Force 309 Software Group.
+Coding challenge for Air Force 309th Software Engineering Group.
 
 # Usage
 Edit main.c ```TARGET``` macro. Then edit the ```gears```
